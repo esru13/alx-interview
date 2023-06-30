@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Pascal's Triangle in pyhton
+Pascal's Triangle
 """
 
 
