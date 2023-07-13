@@ -14,4 +14,6 @@ def minOperations(n):
         return 0
     for op in range(2, n+1):
         if n % op == 0:
-            return minOperations(int(n/op)) + op
+            return minOperations(int(n/op)) + op 
+            
+print()
