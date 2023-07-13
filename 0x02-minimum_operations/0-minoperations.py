@@ -16,4 +16,3 @@ def minOperations(n):
         if n % op == 0:
             return minOperations(int(n/op)) + op 
             
-print()
